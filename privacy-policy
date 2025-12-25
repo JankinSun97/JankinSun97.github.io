@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy - ICV-Lab</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #333;
+    }
+    h1, h2 {
+      color: #007AFF;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy（隐私政策）</h1>
+  <p><strong>Last updated:</strong> December 25, 2025</p>
+
+  <h2>English</h2>
+  <p>This privacy policy applies to the app "<strong>ICV-Lab</strong>" (hereinafter referred to as "the App") developed by Jankin Sun.</p>
+
+  <p>The App does **not collect, store, share, or transmit any personal data** from its users.</p>
+
+  <p>No third-party analytics tools (e.g., Google Analytics, Firebase), advertising SDKs (e.g., AdMob), or tracking technologies are integrated into the App.</p>
+
+  <p>All functionality is processed locally on your device. No information leaves your iPhone or iPad.</p>
+
+  <p>By using this App, you acknowledge and agree that no data is being collected.</p>
+
+  <h2>中文</h2>
+  <p>本隐私政策适用于由 [你的姓名或公司名称] 开发的应用程序“<strong>ICV-Lab</strong>”（以下简称“本应用”）。</p>
+
+  <p>本应用 **不会收集、存储、共享或传输任何用户的个人数据**。</p>
+
+  <p>本应用未集成任何第三方分析工具（如 Google Analytics、Firebase）、广告 SDK（如 AdMob）或其他追踪技术。</p>
+
+  <p>所有功能均在您的设备本地运行，**没有任何信息会离开您的 iPhone 或 iPad**。</p>
+
+  <p>使用本应用即表示您知悉并同意：我们不会收集任何数据。</p>
+
+  <h2>Contact Us（联系我们）</h2>
+  <p>If you have any questions about this Privacy Policy, please contact us at:<br>
+  Email: <a href="mailto:support@yourdomain.com">support@yourdomain.com</a></p>
+
+  <footer>
+    <p>© 2025 Jankin Sun. All rights reserved.<br>
+    This privacy policy is valid for the App distributed via the Apple App Store.</p>
+  </footer>
+</body>
+</html>
